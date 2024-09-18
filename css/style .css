@@ -1,0 +1,19 @@
+#countlabel {
+  display: block;
+  text-align: center;
+  font-size: 10rem;
+}
+.btn-container{
+  text-align: center
+}
+button{
+  background-color: rgb(0, 162, 255);
+  padding: 10px 25px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0,3s;
+}
+button:hover{
+  background-color: black;
+}
